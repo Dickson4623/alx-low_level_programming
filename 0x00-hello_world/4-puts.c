@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - a program that prints exactly a sentence but returns zero
  * Return: 0
